@@ -1,0 +1,15 @@
+D:\GB\HWforC\bin\Debug\net8.0\HWforC.exe
+D:\GB\HWforC\bin\Debug\net8.0\HWforC.deps.json
+D:\GB\HWforC\bin\Debug\net8.0\HWforC.runtimeconfig.json
+D:\GB\HWforC\bin\Debug\net8.0\HWforC.dll
+D:\GB\HWforC\bin\Debug\net8.0\HWforC.pdb
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.AssemblyInfoInputs.cache
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.AssemblyInfo.cs
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.csproj.CoreCompileInputs.cache
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.sourcelink.json
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.dll
+D:\GB\HWforC\obj\Debug\net8.0\refint\HWforC.dll
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.pdb
+D:\GB\HWforC\obj\Debug\net8.0\HWforC.genruntimeconfig.cache
+D:\GB\HWforC\obj\Debug\net8.0\ref\HWforC.dll
