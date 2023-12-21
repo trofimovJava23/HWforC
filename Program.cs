@@ -15,7 +15,7 @@ class HelloWorld {
       }
       anInstanceofMyClass.foundElement(mass);
     
-    
+
   }
   
   int randNumber(){
@@ -36,7 +36,7 @@ class HelloWorld {
       {
         Console.WriteLine("Искомый элемент массива равен: {0}", arr[X,Y]);
       }
-      
+       
   }
  
   }
